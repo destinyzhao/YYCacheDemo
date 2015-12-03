@@ -1,0 +1,10 @@
+PODS:
+  - YYCache (0.9.3)
+
+DEPENDENCIES:
+  - YYCache
+
+SPEC CHECKSUMS:
+  YYCache: 9a9bba3cdd2adcd89a7b61f9b1a6d6c31aab2cb6
+
+COCOAPODS: 0.39.0
